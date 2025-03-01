@@ -8,13 +8,13 @@
 
 ├── Security/Audit Account (Macie Administrator)
 
-  ├── Macie Administrator Configuration
+    ├── Macie Administrator Configuration
   
-  ├── Findings Bucket (s3://xxxx-macie-findings)
+    ├── Findings Bucket (s3://xxxx-macie-findings)
   
-  ├── Logging Bucket (s3://xxx-macie-logs)
+    ├── Logging Bucket (s3://xxx-macie-logs)
   
-  └── Lambda Functions for Remediation
+    └── Lambda Functions for Remediation
 
 └── Member Accounts
     └── Data Buckets (containing sensitive data)
