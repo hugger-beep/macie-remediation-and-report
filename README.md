@@ -4,7 +4,7 @@
 
 # Organization Structure:
 
-#├── Management Account (Root)
+#├── Management Account (Root):
 
 #├── Security/Audit Account (Macie Administrator)
 
