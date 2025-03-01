@@ -4,9 +4,9 @@
 
 # Organization Structure:
 
-#├── Management Account (Root):
+├── Management Account (Root)
 
-#├── Security/Audit Account (Macie Administrator)
+├── Security/Audit Account (Macie Administrator)
 
     ├── Macie Administrator Configuration
   
@@ -16,6 +16,6 @@
   
     ├── Lambda Functions for Remediation
 
-#├── Member Accounts
+├── Member Accounts
 
-     ├── Data Buckets (containing sensitive data)
+    ├── Data Buckets (containing sensitive data)
